@@ -1,0 +1,35 @@
+body {
+	font-family: Tahoma, sans-serif;
+	line-height: 1.6em;
+	background-color: #f4f4f4;
+}
+
+header, footer, #container {
+	text-align: center;
+}
+
+header {
+	padding: 20px;
+	background-color: #ff763d;
+	color: #fff;
+	font-weight: 700;
+}
+
+#container {
+	width: 400px;
+	margin: 50px auto;
+	background-color: #ffffa5;
+	overflow: hidden;
+	padding: 30px;
+	font-style: italic;
+}
+
+.clear {
+	display: block;
+	width: 160px;
+	text-decoration: none;
+	background-color: #333333;
+	padding: 18px;
+	color: #fff;
+	margin: 0 auto 20px;
+}
